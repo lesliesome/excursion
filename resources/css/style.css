@@ -15,3 +15,8 @@ p {
   color: aquamarine;
   font-size: 16px;
 }
+
+.middle h1 {
+  font-weight: 300px;
+  font-size: 42px;
+}
