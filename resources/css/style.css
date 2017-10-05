@@ -11,7 +11,7 @@ h1 {
   color: white;
 }
 
-p {
+a {
   color: aquamarine;
   font-size: 16px;
 }
@@ -19,4 +19,13 @@ p {
 .middle h1 {
   font-weight: 300px;
   font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+p.leftAlign {
+  text-align: right;
 }
